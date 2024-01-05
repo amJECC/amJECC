@@ -113,9 +113,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
 
 <!--
 **amJECC/amJECC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
