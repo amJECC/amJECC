@@ -104,15 +104,10 @@
 <div align='center'>
 
 </div>
-<br>
-<br>
-<br>
-<br>
 
 ---
 
 <br>
-
 
 <!--
 **amJECC/amJECC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
